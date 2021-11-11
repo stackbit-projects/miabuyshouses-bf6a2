@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hi, I’m Mia and I buy houses AS-IS at EASE.'
-    subtitle: We buy houses
+    subtitle: I buy houses in any condition in Florida.
     actions:
       - label: Contact Me
         url: /contact
