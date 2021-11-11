@@ -5,7 +5,7 @@ sections:
     title: 'Hi, I’m Mia and I buy houses AS-IS at EASE.'
     subtitle: >-
       I buy houses in any condition, it doesn't matter if its newer, or if it's
-      over 100
+      over 100 years old
     actions:
       - label: Contact Me
         url: /contact
