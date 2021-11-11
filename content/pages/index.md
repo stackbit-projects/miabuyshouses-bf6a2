@@ -3,10 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hi, I’m Mia and I buy houses AS-IS at EASE.'
-    subtitle: >-
-      I buy houses in any condition, it doesn't matter if your home is newer, or
-      if it's over 100 years old. There are no commissions, fees, Give me a call
-      today!
+    subtitle: "I buy houses in any condition, it doesn't matter if your home is newer, or if it's over 100 years old. There are no commissions, or fees,\_ Give me a call today!"
     actions:
       - label: Contact Me
         url: /contact
