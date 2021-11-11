@@ -6,7 +6,7 @@ sections:
     subtitle: >-
       I buy houses in any condition, it doesn't matter if your home is newer, or
       if it's over 100 years old. There are no commissions, or fees, no
-      obligation whatsoever. Give me a call today!
+      obligation whatsoever. Let's talk about your property, I'm here to help!
     actions:
       - label: Contact Me
         url: /contact
