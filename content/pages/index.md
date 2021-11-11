@@ -8,7 +8,7 @@ sections:
       if it's over 100 years old. There are no commissions, or fees, no
       obligation whatsoever. Let's talk about your property, I'm here to help!
     actions:
-      - label: Contact Me
+      - label: Call Now 305-300-0496
         url: /contact
         style: primary
     image: images/hero.png
